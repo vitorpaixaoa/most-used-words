@@ -62,6 +62,9 @@ Este projeto foi desenvolvido durante meus estudos sobre ElectronJs e Vue, a ide
 #### Ferramentas
 - [**VS CODE**]()
 
+##⬇️ Download do instalador disponível em...
+- [**VS CODE**]()
+
 <!--License session-->
 ## 📝 Licença
 ### Este projeto está sob a licença [MIT](./LICENSE).
