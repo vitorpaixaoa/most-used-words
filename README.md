@@ -61,9 +61,9 @@ Este projeto foi desenvolvido durante meus estudos sobre ElectronJs e Vue, a ide
 
 #### Ferramentas
 - [**VS CODE**]()
-
-##⬇️ Download do instalador disponível em...
-- [**VS CODE**]()
+<hr/>
+#⬇️ Download do instalador disponível em...
+<a href="https://drive.google.com/file/d/17Md9Wrx7X2CNTN3PjHds8XtTsvW0885K/view?usp=sharing"> Google Drive <a/>
 
 <!--License session-->
 ## 📝 Licença
