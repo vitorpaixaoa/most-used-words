@@ -7,7 +7,6 @@
    <a href="https://www.linkedin.com/in/alan-vitor-paix%C3%A3o-almeida-44651117b/">
       <img alt="Vitor Almeida" src="https://img.shields.io/badge/-Felipe Santos-blue?style=flat&logo=Linkedin&logoColor=bluee" />
    </a>
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
 <!-- Indice-->
